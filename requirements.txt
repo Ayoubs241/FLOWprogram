@@ -1,2 +1,2 @@
 Plotly
-hvpl
+hvplot
